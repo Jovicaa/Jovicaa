@@ -1,5 +1,5 @@
 -  Hi, I’m @Jovicaa
--  I’m interested in software development
+-  Cyber Security Analyst interested in software development
 -  I’m currently learning JS Frameworks
 -  I’m looking to collaborate on smaller projects with learning curve potential
  
