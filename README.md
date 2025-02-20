@@ -1,6 +1,6 @@
 -  Hi, I’m @Jovicaa
--  Cyber Security Analyst interested in penetration testing and software development
--  I’m currently working on non-disruptive pentests against local businesses.
+-  Doing SecOps and poking around until things break.
+-  I’m currently breaking software and digging up leaked credentials.
 -  I’m looking to collaborate on smaller projects with learning curve potential.
 -  Also, medical background!
  
